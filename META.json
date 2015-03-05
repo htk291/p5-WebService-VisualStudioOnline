@@ -52,5 +52,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/htk291/p5-WebService-VisualStudioOnline/issues"
+      },
+      "homepage" : "https://github.com/htk291/p5-WebService-VisualStudioOnline",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/htk291/p5-WebService-VisualStudioOnline.git",
+         "web" : "https://github.com/htk291/p5-WebService-VisualStudioOnline"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "htk291 <htk291@gmail.com>"
+   ]
 }

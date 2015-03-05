@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/htk291/p5-WebService-VisualStudioOnline.svg?branch=master)](https://travis-ci.org/htk291/p5-WebService-VisualStudioOnline) [![Coverage Status](https://img.shields.io/coveralls/htk291/p5-WebService-VisualStudioOnline/master.svg)](https://coveralls.io/r/htk291/p5-WebService-VisualStudioOnline?branch=master)
 # NAME
 
 WebService::VisualStudioOnline - It's new $module
